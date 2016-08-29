@@ -1,0 +1,140 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\hamsa_000\Desktop\APCS\Extra Libraries\apcslib.jar;C:\Users\hamsa_000\Desktop\APCS\Extra Libraries\chndocs.jar;C:\Users\hamsa_000\Desktop\APCS\Extra Libraries\chnutil.jar;C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher
+-d
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+GrapeCatcher
+-windowtitle
+GrapeCatcher
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/6/docs/api/
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Duck.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Raisin.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Play.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Bomb.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Drop.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Grape.java
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/GrapeCatcherGUI.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Duck.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Raisin.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Play.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Bomb.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Drop.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/Grape.java...
+Loading source file C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher/GrapeCatcherGUI.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Bomb.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:13: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:24: warning - @ is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:94: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:34: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:42: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:50: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:82: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:74: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:58: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Bomb.java:66: warning - @description is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Drop.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Drop.java:12: warning - @Details is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Drop.java:16: warning - @Details is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Drop.java:20: warning - @Details is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Drop.java:24: warning - @Details is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Drop.java:28: warning - @Details is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Duck.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:15: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:28: warning - @descriptions is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:85: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:93: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:154: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:118: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:101: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:37: warning - @descriptions is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:53: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:61: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:142: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:109: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:134: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:126: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:45: warning - @descriptions is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:69: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Duck.java:77: warning - @description is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Grape.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:15: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:26: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:96: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:36: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:44: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:52: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:84: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:76: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:60: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Grape.java:68: warning - @description is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\GrapeCatcherGUI.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:31: warning - @Authors is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:31: warning - @Player is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:31: warning - @Version is an unknown tag -- same as a known tag except for case.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:75: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:528: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:856: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Right is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Left is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @A is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @D is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Enter is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Space is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Escape is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:663: warning - @Q is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:777: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:771: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:495: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\GrapeCatcherGUI.java:646: warning - @description is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Play.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\Raisin.html...
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:13: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:24: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:93: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:34: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:42: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:50: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:81: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:73: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:58: warning - @description is an unknown tag.
+C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\Raisin.java:66: warning - @description is an unknown tag.
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\package-frame.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\package-summary.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\package-tree.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\constant-values.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\serialized-form.html...
+Building index for all the packages and classes...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\overview-tree.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\index-all.html...
+Building index for all classes...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\allclasses-frame.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\allclasses-noframe.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\index.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\help-doc.html...
+Generating C:\Users\hamsa_000\Desktop\APCS\GrapeCatcher\doc\stylesheet.css...
+71 warnings

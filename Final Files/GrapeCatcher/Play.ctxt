@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Play()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Play\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Here\ is\ the\ main()\ method\r\n\ Runs\ the\ the\ grape\ catcher\ gui\r\n\ \r\n
+numComments=2
